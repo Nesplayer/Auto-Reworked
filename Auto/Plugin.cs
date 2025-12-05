@@ -13,7 +13,7 @@ namespace Auto
         {
             // Plugin startup logic
             Log = base.Log;
-            Log.LogInfo($"Plugin {MyPluginInfo.PLUGIN_GUID} is loaded!");
+            Log.LogInfo($"Auto is loading");
         }
     }
 }
