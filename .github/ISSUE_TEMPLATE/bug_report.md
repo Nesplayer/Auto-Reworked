@@ -1,10 +1,12 @@
 ---
 name: Bug report
 about: report bug
-title: BUG
+title: 
 labels: ''
 assignees: ''
 
 ---
 
-upload the log so that I can fix it more easily
+what you should upload?
+- Among Us version
+- mod version
