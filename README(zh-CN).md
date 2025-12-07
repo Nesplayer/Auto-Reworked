@@ -18,4 +18,16 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>
 <a href="https://github.com/Nesplayer/Auto/releases/latest" target="_blank"><img src="https://img.shields.io/badge/Latest Version%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 </center>
-</p>
+</p>  
+
+---  
+感谢以下的贡献者以及模组  
+
+### :star: [Zixum256](https://github.com/Zixun256) :
+> 
+> - 为Auto增加了黑暗模式
+>
+### :star: [TOHE](https://github.com/KARPED1EM/TownOfHostEdited) :
+> 
+> - Auto用了部分TOHE的源代码
+>
