@@ -1,10 +1,6 @@
-[[English]](https://github.com/Nesplayer/Auto/README.md)
+[[English]](https://github.com/Nesplayer/Auto-Reworked/blob/main/README.md)[简体中文][[繁体中文]](https://github.com/Nesplayer/Auto-Reworked/blob/main/README(zh-TW).md)
 <h1 align="center">Auto</h1>
 <br>
-[English][简体中文][繁体中文]
-
----
-
 <img align="left" alt="Cover" src="Auto.png" width="50%" height="300" /> 
 <p align="right">
 
@@ -28,7 +24,7 @@
 > 
 > - 为Auto增加了黑暗模式
 >
-### :star: [TOHE](https://github.com/KARPED1EM/TownOfHostEdited) :
+### :star: [Town Of Host:Enhanced](https://github.com/KARPED1EM/TownOfHostEdited) :
 > 
-> - Auto用了部分TOHE的源代码
+> - Auto-Reworked运用了部分Town Of Host:Enhanced的源代码
 >
