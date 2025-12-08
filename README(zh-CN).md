@@ -1,3 +1,4 @@
+[[English]](https://github.com/Nesplayer/Auto/README.md)
 <h1 align="center">Auto</h1>
 <br>
 [English][简体中文][繁体中文]
